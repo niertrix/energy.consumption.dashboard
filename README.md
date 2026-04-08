@@ -31,6 +31,9 @@ An interactive dashboard project created on Microsoft Excel
 
 # Dashboard
 <img width="1664" height="607" alt="Cost Dashboard" src="https://github.com/user-attachments/assets/e1e25e09-a0ca-438b-ba24-24d5a8aab739" /> 
+
 **Cost Dashboard**
+
 <img width="1659" height="602" alt="Consumption Dashboard" src="https://github.com/user-attachments/assets/97f333ef-be89-47ab-a144-c049005b9af6" />
+
 **Consumption Dashboard**
