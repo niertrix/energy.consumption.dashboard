@@ -11,7 +11,7 @@ An interactive dashboard project created on Microsoft Excel
 - What is the distribution of average energy costs and consumption across different cities/states?
 - How does the rate of costs and consumption change across each year?
 - Which buildings have the highest amount of costs and consumption?
-- What is the total cost and consumpption per month?
+- What is the total cost and consumption per month?
 
 # Process
 1. Clean the dataset and check for any null or corrupt data.
